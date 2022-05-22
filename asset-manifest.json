@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/conghieucoffee/static/css/main.73278f89.css",
+    "main.js": "/conghieucoffee/static/js/main.ecb34f81.js",
+    "static/media/fa-solid-900.ttf": "/conghieucoffee/static/media/fa-solid-900.79da213423ac0def2058.ttf",
+    "static/media/fa-brands-400.ttf": "/conghieucoffee/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
+    "static/media/fa-solid-900.woff2": "/conghieucoffee/static/media/fa-solid-900.4896d4b04430cc3dfb06.woff2",
+    "static/media/fa-brands-400.woff2": "/conghieucoffee/static/media/fa-brands-400.f77bcc98bb7468c8b15a.woff2",
+    "static/media/fa-regular-400.ttf": "/conghieucoffee/static/media/fa-regular-400.15d98c18221c8bcb2334.ttf",
+    "static/media/fa-regular-400.woff2": "/conghieucoffee/static/media/fa-regular-400.d79c2ec96ab9ff1161a2.woff2",
+    "static/media/sicola_nasa.jpg": "/conghieucoffee/static/media/sicola_nasa.2c8f416665b637035e3c.jpg",
+    "static/media/fa-v4compatibility.ttf": "/conghieucoffee/static/media/fa-v4compatibility.52eba2c567c521b8d58a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/conghieucoffee/static/media/fa-v4compatibility.3d503f89ccaf1b224aa5.woff2",
+    "index.html": "/conghieucoffee/index.html",
+    "main.73278f89.css.map": "/conghieucoffee/static/css/main.73278f89.css.map",
+    "main.ecb34f81.js.map": "/conghieucoffee/static/js/main.ecb34f81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73278f89.css",
+    "static/js/main.ecb34f81.js"
+  ]
+}
