@@ -33,7 +33,7 @@ const SearchForm = () => {
      return (
           <div className='flex justify-center items-center my-5'>
                <div 
-                    className='w-20 mb:w-16 cursor-pointer'
+                    className='w-20 mb:w-12 cursor-pointer'
                     onClick={() => navigate("/")}
                >
                     <img src={logo} alt="" className='w-full'/>
@@ -42,7 +42,7 @@ const SearchForm = () => {
                     <input 
                          type="text" 
                          placeholder="Search for products ... "    
-                         className='pl-6 py-2 w-full sm:text-lg mb:text-base text-xl rounded-lg ' 
+                         className='pl-6 py-2 mb:pl-3 mb:py-1 w-full sm:text-lg mb:text-base text-xl rounded-lg ' 
                          value={textSearch}
                          onChange={e => dispatch(text_search(e.target.value))}
                     />
@@ -50,7 +50,7 @@ const SearchForm = () => {
                          <i className="fa-solid fa-magnifying-glass flex items-center w-full h-full px-3 rounded-r-lg hover:bg-black hover:text-white"></i>
                     </span>
                </div>
-               <div className='text-5xl cursor-pointer'>
+               <div className='text-5xl mb:text-4xl cursor-pointer'>
                     <i className="fa-solid fa-cart-shopping"
                          onClick={() => handlePayment()}
                     ></i>

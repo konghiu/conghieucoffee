@@ -98,7 +98,7 @@ const PatternProduct = props => {
                               className='w-full flex items-center text-lg'
                               style={notification === "Please choose size." ? {"backgroundColor": "#FF9999", "border": "3px solid red", "color": "#E60000"} : {"backgroundColor": "lightgreen", "border": "3px solid green", "color": "green"}}
                          >
-                              <div className='px-3 py-1 text-3xl md:text-2xl'>
+                              <div className='px-3 py-1 text-3xl md:text-2xl mb:text-lg'>
                                    {
                                         notification === "Please choose size." ?
                                         <i className="fa-solid fa-circle-xmark  text-red-500 bg-white rounded-full"></i>
@@ -106,14 +106,14 @@ const PatternProduct = props => {
                                    }
                               </div>
                               <p
-                                   className='md:text-sm md:font-semibold'
+                                   className='md:text-sm mb:text-sm md:font-semibold'
                               >{notification}</p>
                          </div>
                          : null
                     }
                     <p></p>
                </div>
-               <div className='w-full h-60'>
+               <div className='w-full h-60 mb:h-44'>
                     <img src={item.image} alt="" className='w-full h-full'/>
                </div>
                <p className='text-xl font-semibold my-2 px-2'>{item.name}</p>
@@ -293,7 +293,7 @@ const PatternProduct = props => {
                     </div>
                }
                <button 
-                    className=' self-center justify-self-end bg-black text-white text-lg border-2 border-black hover:bg-white hover:text-black px-3 py-1 mt-5 mb-3'
+                    className='self-center justify-self-end bg-black text-white text-lg border-2 border-black hover:bg-white hover:text-black px-3 py-1 mt-5 mb-3 mb:text-base'
                     onClick={() => handleAddProduct()}
                >Thêm vào đơn hàng</button>
           </div>

@@ -22,7 +22,7 @@ const App = () => {
          <div className='flex flex-col justify-center items-center'>
                <div className='width-screen relative flex flex-col items-center border-2'>
                     <p 
-                         className='text-center py-10 text-4xl font-semibold font-mono cursor-pointer'
+                         className='text-center py-10 mb:py-5 mb:text-3xl text-4xl font-semibold font-mono cursor-pointer'
                          onClick={() => {
                               navigate("/")
                          }}
