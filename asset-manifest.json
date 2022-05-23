@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/conghieucoffee/static/css/main.73278f89.css",
-    "main.js": "/conghieucoffee/static/js/main.ecb34f81.js",
+    "main.css": "/conghieucoffee/static/css/main.3db50837.css",
+    "main.js": "/conghieucoffee/static/js/main.980d7daa.js",
     "static/media/fa-solid-900.ttf": "/conghieucoffee/static/media/fa-solid-900.79da213423ac0def2058.ttf",
     "static/media/fa-brands-400.ttf": "/conghieucoffee/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
     "static/media/fa-solid-900.woff2": "/conghieucoffee/static/media/fa-solid-900.4896d4b04430cc3dfb06.woff2",
@@ -12,11 +12,11 @@
     "static/media/fa-v4compatibility.ttf": "/conghieucoffee/static/media/fa-v4compatibility.52eba2c567c521b8d58a.ttf",
     "static/media/fa-v4compatibility.woff2": "/conghieucoffee/static/media/fa-v4compatibility.3d503f89ccaf1b224aa5.woff2",
     "index.html": "/conghieucoffee/index.html",
-    "main.73278f89.css.map": "/conghieucoffee/static/css/main.73278f89.css.map",
-    "main.ecb34f81.js.map": "/conghieucoffee/static/js/main.ecb34f81.js.map"
+    "main.3db50837.css.map": "/conghieucoffee/static/css/main.3db50837.css.map",
+    "main.980d7daa.js.map": "/conghieucoffee/static/js/main.980d7daa.js.map"
   },
   "entrypoints": [
-    "static/css/main.73278f89.css",
-    "static/js/main.ecb34f81.js"
+    "static/css/main.3db50837.css",
+    "static/js/main.980d7daa.js"
   ]
 }
